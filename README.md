@@ -1,4 +1,4 @@
-# Portfolio-Website-092020
+# Portfolio Website created as a Freelance Project for a client.
 
 # Created in September of 2020 by myself.
 
